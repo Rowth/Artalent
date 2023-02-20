@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563260412637",
+    "project_id": "arttalenttest",
+    "storage_bucket": "arttalenttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563260412637:android:8fb6b8ee52a3d25068c134",
+        "android_client_info": {
+          "package_name": "com.artalent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563260412637-fl92ksadkto7i0e272u7dn058aj7r3ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGSgEzJ_rSfye6t1LNRbpBWZ0aF14DBQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563260412637-fl92ksadkto7i0e272u7dn058aj7r3ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
